@@ -1,18 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**paelsam/paelsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Elkin Angulo
 
-Here are some ideas to get you started:
+Desarrollador de software 👍🏾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paelsam)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=paelsam&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=E6F2E6&icon_color=4CAF50&text_color=2F4F4F" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=paelsam&hide_border=true&background=E6F2E6&ring=7BC47F&fire=7BC47F&currStreakLabel=2F4F4F&sideLabels=2F4F4F&dates=5F7F6F" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paelsam&layout=compact&hide_border=true&bg_color=E6F2E6&text_color=2F4F4F" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paelsam&theme=vue" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+</div>
